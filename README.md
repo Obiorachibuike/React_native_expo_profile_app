@@ -31,7 +31,7 @@ Use this as a starter template or reference when building similar UIs.
 
 | Profile Screen |
 |---------------|
-| ![Profile Screen](assets/screenshots/profile-screen.jpg) |
+| ![Profile Screen](assets/images/profile-screen.jpg) |
 
 > 📸 *Screenshot from Expo running on an Android emulator*
 
